@@ -1,0 +1,49 @@
+
+
+input[type=text], input[type=email], input[type=number]
+{
+    width: 80%;
+    padding: 5px 22px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border: 2px solid rgb(59, 28, 28);
+    background-color: #ccc;
+    
+}
+
+textarea{
+    width: 40%;
+    height: 50px;
+    padding: 15px 22px;
+    box-sizing: border-box;
+    border: 2px solid rgb(33, 49, 33);
+    border-radius: 2px;
+    resize: none;
+    background-color: #ccc;
+}
+
+input[type=submit]
+{
+    background-color: aquamarine;
+    border: none;
+    color:rgb(176, 184, 181);
+    padding: 8px 35px;
+    text-decoration: none;
+    border: 2px solid #ccc;
+    margin: 5px 4px;
+    cursor: progress;
+
+}
+
+form{
+    width: 70%;
+    height: 20%;
+    border: 1px solid blue;
+    color: rgb(159, 180, 180);
+    background-color: rgb(226, 253, 239);
+    padding: 15%;
+    border-radius: 20px;
+  
+  }
+
+

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../filtering"
+		},
+		{
+			"path": "../../assignment"
+		},
+		{
+			"path": "../../endterm"
+		}
+	],
+	"settings": {}
+}
